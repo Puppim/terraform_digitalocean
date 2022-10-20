@@ -1,0 +1,6 @@
+region        = "region"
+do_token      = "yourtoken"
+ssh_keys_name = "ssh-key-name"
+# Apos a alteração em 
+# terraform.tfvars.exemplo 
+# renomei para terraform.tfvars
